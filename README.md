@@ -39,6 +39,14 @@ Ele permite que o usuário escolha um programa, selecione uma versão disponíve
 
 * Versão Atual
 
+### Steam
+
+* Versão Atual
+
+### Rufus
+
+* Versão Atual
+
 ## Requisitos
 
 * Windows
